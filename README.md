@@ -51,6 +51,7 @@ Hikuru Fusion's integration with multiple Decentralized Exchanges (DEXs) leverag
 
 **Enhanced Description:**
 The aggregation of NFT marketplaces within Hikuru Fusion offers a unified view of the global NFT market, enabling users to discover, compare, and trade digital assets across platforms effortlessly. Through smart contracts, the platform could automate the verification, bidding, and transfer processes of NFTs, ensuring authenticity and ownership while enabling cross-platform searches and transactions.
+![image](https://github.com/HikuruOfficial/Hikuru-Fusion/assets/132744928/ef5daa2a-4abc-4e5c-a8cd-6d99872bb46e)
 
 **Smart Contracts Application:**
 - **NFT Exchange Contract:** Manages the listing, auction, and sale of NFTs across different marketplaces, ensuring secure and transparent transactions.
