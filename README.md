@@ -45,7 +45,7 @@ Hikuru Fusion's integration with multiple Decentralized Exchanges (DEXs) leverag
 - **Liquidity Aggregation Contract:** A smart contract designed to pool liquidity information from various DEXs, enabling users to find the best rates for their trades.
 - **Atomic Swap Contract:** Facilitates trustless exchanges between different cryptocurrency pairs without requiring intermediaries, directly within the Hikuru Fusion interface.
 
-### Aggrigator of NFT Marketplaces
+### Aggregation Protocol of NFT Marketplaces
 ![image](https://github.com/HikuruOfficial/Hikuru-Fusion/assets/132744928/e849ed59-b599-4fae-b174-f88082c716a1)
 
 **Enhanced Description:**
@@ -55,7 +55,7 @@ The aggregation of NFT marketplaces within Hikuru Fusion offers a unified view o
 - **NFT Exchange Contract:** Manages the listing, auction, and sale of NFTs across different marketplaces, ensuring secure and transparent transactions.
 - **Cross-Marketplace Integration Contract:** A contract that interfaces with multiple NFT platforms to enable cross-listing and purchasing, broadening the exposure and availability of unique digital assets.
 
-### Aggrigator of Cross-Chain Bridges
+### Aggregation Protocol of Cross-Chain Bridges
 ![image](https://github.com/HikuruOfficial/Hikuru-Fusion/assets/132744928/62bf7f57-baa8-4bc9-aa14-b56736507f66)
 
 **Enhanced Description:**
