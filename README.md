@@ -56,6 +56,7 @@ The aggregation of NFT marketplaces within Hikuru Fusion offers a unified view o
 **Smart Contracts Application:**
 - **NFT Exchange Contract:** Manages the listing, auction, and sale of NFTs across different marketplaces, ensuring secure and transparent transactions.
 - **Cross-Marketplace Integration Contract:** A contract that interfaces with multiple NFT platforms to enable cross-listing and purchasing, broadening the exposure and availability of unique digital assets.
+- **Purchase NFT with any token:** Provide an opportunity to buy nft not only for native token, but for any token, no matter if it's stablecoins or memecoin. The system will automatically exchange the token and you will not have to pay twice.
 
 ### Aggregation Protocol of Cross-Chain Bridges
 ![image](https://github.com/HikuruOfficial/Hikuru-Fusion/assets/132744928/62bf7f57-baa8-4bc9-aa14-b56736507f66)
