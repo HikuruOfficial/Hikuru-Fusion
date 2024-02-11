@@ -1,4 +1,4 @@
-"Hikuru Fusion" represents an innovative platform within the blockchain and cryptocurrency ecosystem, functioning as a comprehensive aggregator of various decentralized services. It aims to streamline the user experience by integrating decentralized exchanges (DEXs), NFT marketplaces, and cross-chain bridges into a single, accessible interface. Below is an explanation of the key components of Hikuru Fusion and its benefits to users and the wider community.
+**Hikuru Fusion** represents an innovative platform within the blockchain and cryptocurrency ecosystem, functioning as a comprehensive aggregator of various decentralized services. It aims to streamline the user experience by integrating decentralized exchanges (DEXs), NFT marketplaces, and cross-chain bridges into a single, accessible interface. Below is an explanation of the key components of Hikuru Fusion and its benefits to users and the wider community.
 
 ### Components of Hikuru Fusion
 
