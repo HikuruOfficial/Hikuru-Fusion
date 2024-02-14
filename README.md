@@ -46,6 +46,7 @@ Hikuru Fusion's integration with multiple Decentralized Exchanges (DEXs) leverag
 - **Liquidity Aggregation Contract:** A smart contract designed to pool liquidity information from various DEXs, enabling users to find the best rates for their trades.
 - **Atomic Swap Contract:** Facilitates trustless exchanges between different cryptocurrency pairs without requiring intermediaries, directly within the Hikuru Fusion interface.
 - **3 in 1 Fusion DEX feature** - user can exchange 1 token for 3(or more) different tokens with a single click without unnecessary movements and confirmations and saving their time.
+![image](https://github.com/HikuruOfficial/Hikuru-Fusion/assets/132744928/ed7a5b32-a467-4c25-9580-42b8745d6179)
 
 ### Aggregation Protocol of NFT Marketplaces
 ![image](https://github.com/HikuruOfficial/Hikuru-Fusion/assets/132744928/e849ed59-b599-4fae-b174-f88082c716a1)
